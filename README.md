@@ -1,4 +1,4 @@
-# Hello Kushimoto
+# Hello Kushimoto seiji
 
 [![Build Status](https://travis-ci.org/torounit/hello-kushimoto.svg)](https://travis-ci.org/torounit/hello-kushimoto)
 [![](https://img.shields.io/wordpress/plugin/dt/hello-kushimoto.svg)](https://wordpress.org/plugins/hello-kushimoto/)
